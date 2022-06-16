@@ -16,5 +16,5 @@
 </p>
 
 
-Code snipets on how to work with NetflixLATTE data
+Sample codes on how to work with NetflixLATTE data
 
