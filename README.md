@@ -3,8 +3,8 @@
     <img src="https://pbs.twimg.com/profile_images/1472895182337159171/1CUoCsVD_400x400.jpg">
 </p>
 <p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <a href="https://github.com/datalatte-ai/NetflixLATTE/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/datalatte-ai/NetflixLATTE" /></a>
     <a href="https://github.com/datalatte-ai/NetflixLATTE/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/NetflixLATTE" /></a>
     <a href="https://discord.com/invite/saUmuZ3Rrw">
