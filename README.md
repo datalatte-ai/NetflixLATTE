@@ -1,6 +1,6 @@
 # NetflixLATTE
 <p align="center">
-    <img src="https://www.datalatte.com/imgs/logo.svg">
+    <img src="https://www.datalatte.com/imgs/datalatte.svg">
 </p>
 <p align="center">
     <a href="https://github.com/datalatte-ai/NetflixLATTE/graphs/contributors" alt="Contributors">
